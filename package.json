@@ -1,0 +1,16 @@
+{
+  "name": "sylvia",
+  "version": "1.0.0",
+  "description": "quilting",
+  "main": "sound_quilt.js",
+  "dependencies": {
+    "node-wav": "^0.0.2",
+    "paths-js": "^0.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lea",
+  "license": "ISC"
+}
